@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Mia Roman-Wilson
 description              : Mia Roman-Wilson - Projects and CV 
-baseurl                  : "/sp25-portfolio-mjr436-tech/"  
+baseurl                  : "/sp26-portfolio-mjr436-tech/"  
 
 # Theme and Style
 theme: jekyll-theme-minimal
